@@ -1,0 +1,13 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "64",
+            "grip_length": "10",
+            "round_r": "1.4999999999999987",
+            "u_height": "12",
+            "u_thickness": "3",
+            "u_width": "16"
+        }
+    }
+}
