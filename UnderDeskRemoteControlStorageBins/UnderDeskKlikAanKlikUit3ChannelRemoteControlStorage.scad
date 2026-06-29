@@ -1,4 +1,4 @@
-width=30;
+width=32;
 depth=18;
 length=90;
 caseThickness=2.5;
